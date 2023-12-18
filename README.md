@@ -1,5 +1,5 @@
  An Android app which shows Crypto Currency Exchange Rates. 
-  - In this application I have used
+  - In this application I have used :
   -  MVVM architecture to display crypto currency exchange rates.
   -  Retrofit library to fetch the data from two different api.
   -  Glide library to load the image based on the url fetched from api.
